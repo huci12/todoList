@@ -1,6 +1,8 @@
 # vue-todo
 
 > A Vue.js project
+Doit Vue js 예제 소스 코드를 참고로 만들어 보았습니다.
+이거 가지고 이것저것 해봐야..
 
 ## Build Setup
 
